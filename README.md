@@ -1,4 +1,4 @@
-# GreedyScheduling
+# GreedyScheduling: 最小化网络成本的视频流量贪心调度策略
 
 ![](https://img.shields.io/badge/language-C++-red.svg)
 ![](https://img.shields.io/badge/license-Apache_2.0-green.svg)
