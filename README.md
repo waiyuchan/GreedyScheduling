@@ -42,3 +42,11 @@ H:<CF,3180>
 I:<CZ,32248>
 J:<CZ,39796>
 ```
+
+## 六、运行方式
+* 如果出现运行问题，则将`main.cpp`文件中的这部分代码，`folder_path`改为`data`文件夹所在的本地路径，如无问题，则忽略此步骤
+```cpp
+string folder_path = "../data/";
+```
+* 打开终端，运行`gcc main.cpp`或者通过`vscode`的`cmake`工具配置为`main.cpp`文件运行
+* 如想测试更复杂的数据，可以将数据文件目录切换为`../pressure_data/`
