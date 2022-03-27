@@ -2,6 +2,7 @@
 
 ![](https://img.shields.io/badge/language-C++-red.svg)
 ![](https://img.shields.io/badge/license-Apache_2.0-green.svg)
+![](https://img.shields.io/badge/strategy-Greedy-blue.svg)
 
 ## 一、背景
 在视频直播场景中，网络成本是影响服务成本的关键因素之一，不同的流量调度方案会产生不同的网络使用成本。
